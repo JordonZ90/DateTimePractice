@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.exe
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\ref\DateTimePractice.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\ref\DateTimePractice.dll
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\DateTimePractice\DateTimePractice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.genruntimeconfig.cache
